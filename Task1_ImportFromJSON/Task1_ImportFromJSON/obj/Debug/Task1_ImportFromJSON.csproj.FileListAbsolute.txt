@@ -1,0 +1,8 @@
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\bin\Debug\Task1_ImportFromJSON.exe.config
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\bin\Debug\Task1_ImportFromJSON.exe
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\bin\Debug\Task1_ImportFromJSON.pdb
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\obj\Debug\Task1_ImportFromJSON.csprojResolveAssemblyReference.cache
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\obj\Debug\Task1_ImportFromJSON.exe
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\obj\Debug\Task1_ImportFromJSON.pdb
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Telerik Cources\DataBaseHomeworks\Task1_ImportFromJSON\Task1_ImportFromJSON\bin\Debug\Newtonsoft.Json.xml
